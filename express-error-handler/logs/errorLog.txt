@@ -1,0 +1,5 @@
+Date/Time: 4/13/2026, 1:38:21 PM
+Error Name: Error
+Error Message: This is a test error
+Route: GET /error
+-----------------------------------
