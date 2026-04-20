@@ -1,27 +1,9 @@
-# Student Records Backend
+Student Records Backend API
 
-This is a simple backend API built with Express.js, MongoDB Atlas, Mongoose, and dotenv.
+This project implements a backend API using Express.js, MongoDB, and Mongoose to manage student records.
 
-## Install
-
-```bash
-npm install
-```
-
-## Setup
-
-1. Copy `.env.example` to `.env`
-2. Put your real MongoDB Atlas connection string into `.env`
-3. Run the server:
-
-```bash
-npm run dev
-```
-
-## Routes
-
-- GET `/students`
-- GET `/students/:id`
-- POST `/students`
-- PUT `/students/:id`
-- DELETE `/students/:id`
+It supports:
+- Creating students
+- Retrieving students
+- Updating students
+- Deleting students
